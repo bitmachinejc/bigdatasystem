@@ -1,5 +1,4 @@
-# Predict Onset of Diabetes Using 
-# Pima Native American Dataset
+# Predict Onset of Diabetes Using the Pima Native American Dataset
 # - Big Data System Design class
 #
 # - John Carneiro - johnmcarneiro@gmail.com
